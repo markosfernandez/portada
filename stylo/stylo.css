@@ -1,0 +1,31 @@
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  background-image: url("../img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+}
+.{
+  margin: 0px;
+  padding: 0px;
+}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  width: 100%;
+  margin: center; 
+  
+}
+.carousel{
+  width: 640px;
+  height: 360px;
+  margin: 70px;
+  padding: auto;
+  float: left;
+  display: block;
+}
+body{
+  background-color: antiquewhite;
+  background-image: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
